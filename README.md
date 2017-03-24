@@ -5,5 +5,5 @@
 ...
 
 ## 安装
-`npm install rn- --save`
+`npm install rn-visible-view --save`
 
