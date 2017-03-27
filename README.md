@@ -1,7 +1,7 @@
 # rn-visible-view
 一个React Native的控制空间的显示与消失的控件
 
-## Example
+## Example & Useage
 
 ### 可见
 
@@ -29,6 +29,8 @@ export default class demo extends Component {
 }
 ```
 
+![可见](https://github.com/React-IO/rn-visible-view/blob/master/screenshot/v.png?raw=true)
+
 ### 不可见
 ```javascript
 export default class demo extends Component {
@@ -53,6 +55,9 @@ export default class demo extends Component {
   }
 }
 ```
+
+![不可见](https://github.com/React-IO/rn-visible-view/blob/master/screenshot/n.png?raw=true)
+
 
 
 
