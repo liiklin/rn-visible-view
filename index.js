@@ -2,11 +2,7 @@
  * Created by simon on 2017/3/15.
  */
 import React, { Component } from 'react';
-import {
-  AppRegistry,
-  StyleSheet,
-  View,
-} from 'react-native';
+import { View } from 'react-native';
 
 export default class VisibleView extends Component {
 
